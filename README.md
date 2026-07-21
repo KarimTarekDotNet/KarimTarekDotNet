@@ -1,8 +1,8 @@
-<h1 align="center">Hey there, I'm Karim Tarek<br>SWE || Back-end .Net Developer</h1>
+<h1 align="center">Hey there, I'm Karim Tarek<br>SWE || Back-end Engineer(.Net)</h1>
 
 ###
 
-<h6 align="left">Backend .NET Developer building scalable APIs and real-world systems.<br>Skilled in ASP.NET Core, Clean Architecture, caching, and background processing.<br>Focused on writing production-ready code, not just demo projects.</h6>
+<h6 align="left">Backend Engineer building scalable APIs and real-world systems.<br>Skilled in ASP.NET Core, Clean Architecture, caching, and background processing.<br>Focused on writing production-ready code, not just demo projects.</h6>
 
 ###
 
