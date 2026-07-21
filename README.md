@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Karim Tarek<br>SWE || Back-end Engineer(.Net)</h1>
+<h1 align="center">Hey there, I'm Karim Tarek<br>SWE || Backend Engineer (.Net)</h1>
 
 ###
 
